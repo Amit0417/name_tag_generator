@@ -1,0 +1,35 @@
+
+#name{
+    font-size:40px;
+    font-family: 'Oleo Script', cursive;
+    padding-bottom: 15px;
+    }
+
+/* img{
+    display: flex;
+    width:225px; 
+    height: 150px;;
+} */
+
+.container{
+    margin-bottom: 20px;
+}
+
+#error2{
+    color: red;
+    font-size: 12px;
+    letter-spacing: 1px;
+    margin-top: 0px;
+    margin-bottom: 1px;
+    margin-left: 37px;
+    display: none;
+}
+#error1{
+    color: red;
+    font-size: 12px;
+    letter-spacing: 1px;
+    margin-top: 0px;
+    margin-bottom: 1px;
+    margin-left: 37px;
+    display: none;
+}

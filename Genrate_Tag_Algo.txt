@@ -1,0 +1,12 @@
+1 Create a input field.
+2 Create a genrate tag button.
+3 Create a function for adding input.
+4 Create a div inside the function in which the input value is fetched and showed. 
+5 Empty the input field after click on genrate tag button
+6 Push the input value to the empty array
+7 Create a condtion to check if the tag name is alredy exist 
+  and if the input field is empty
+8 Empty the input field if the name tag name is alredy exist
+9  Show error messege when click on Genrate tag button 
+   while input field is empty and 
+   if tag name already exist
